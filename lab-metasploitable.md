@@ -1,3 +1,9 @@
+# Reconocimiento y explotación en Metasploitable 2
+## Entorno del laboratorio
+- Máquina atacante: Lubuntu (VM)
+- Máquina víctima: Metasploitable 2 (VM)
+- Red: Solo-anfitrión (Host-Only)
+  
 ## nmap
 - Comando: nmap ip | nmap -sV ip
 - Qué obtuve: En el primero opbtuve los puertos mas comunes y ver cuales estaban abiertos y con el segundo vi las versiones de estos.
