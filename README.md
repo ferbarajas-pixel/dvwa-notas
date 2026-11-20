@@ -1,2 +1,2 @@
-# dvwa-notas
-Notas practicando dvwa  
+# Notas Lab
+Notas practicando en el Lab
